@@ -1,0 +1,90 @@
+/*
+    FILE NAME           : FONT.CSS
+    PROJECT NAME        : HONJI JAPANESE MAIN PAGE
+    HTML/CSS AUTHOR     : TTUBIN(TTUBINY@GMAIL.COM)
+    WRITTEN DATE        : 2023/09/19 ~
+    BROWSER             : CHROME
+*/
+/* -------------------------------------------------- NOTOSANS KR -------------------------------------------------- */
+@font-face {
+    font-family: "NotoSansKR-Light";
+    src: url("font/NotoSansKR-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansKR-Regular";
+    src: url("font/NotoSansKR-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansKR-Medium";
+    src: url("font/NotoSansKR-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansKR-SemiBold";
+    src: url("font/NotoSansKR-SemiBold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansKR-Bold";
+    src: url("font/NotoSansKR-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+/* -------------------------------------------------- NOTOSANS JP -------------------------------------------------- */
+@font-face {
+    font-family: "NotoSansJP-Light";
+    src: url("font/NotoSansJP-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansJP-Regular";
+    src: url("font/NotoSansJP-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansJP-Medium";
+    src: url("font/NotoSansJP-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansJP-SemiBold";
+    src: url("font/NotoSansJP-SemiBold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansJP-Bold";
+    src: url("font/NotoSansJP-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+/* -------------------------------------------------- BEBAS KAI -------------------------------------------------- */
+@font-face {
+    font-family: "BebasKai-Regular";
+    src: url("font/BebasKai-Regular.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+}
